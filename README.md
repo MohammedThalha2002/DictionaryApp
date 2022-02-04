@@ -1,16 +1,17 @@
-# dict_app
+# Dictionary Flutter Application!
 
-A new Flutter project.
+Dictionary Flutter Application is made with Flutter  which allows user to search words and fetch the meaning. Dictionary Flutter Application has E-Mail link authentication which allows unauthorized authentication. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Used API's
 
-A few resources to get you started if this is your first Flutter project:
+Dictionary Flutter Application use **Open Source API's** to meet the purpose of the app.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ - [Dictionary API](https://dictionaryapi.dev/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# UI Design
+
+![Home Page](UI/img1.jpg)
+![Home Page](UI/img2.jpg)
+![Location Page](UI/img3.jpg)
+
